@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'https://www.linkedin.com/in/zachary-devore-117998239/',
-        twitter: 'N/A',
         github: 'https://github.com/zachd12',
     },
 
