@@ -70,7 +70,7 @@ const siteConfig = {
         linkedin: 'https://www.linkedin.com/in/zachary-devore-117998239/',
         github: 'https://github.com/zachd12',
     },
-
+    // These instructions are useless and this is outdated
     // You may provide arbitrary config keys to be used as needed by your
     // template. For example, if you need your repo's URL...
     // repoUrl: 'https://github.com/facebook/test-site',
